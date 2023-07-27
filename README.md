@@ -8,6 +8,9 @@ Finer movements to be detected later.
 ## Tensorflow
 https://www.tensorflow.org/
 
+## Pytorch
+https://pytorch.org/
+
 ## PyQT
 https://doc.qt.io/qtforpython-6/index.html
 
